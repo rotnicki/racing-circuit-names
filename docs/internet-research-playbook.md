@@ -25,10 +25,11 @@ patron → biografia i powód nadania imienia
 sponsor → aktualna nazwa i relacja sponsorska
 tor → historyczne nazwy
 tor → aktualny i historyczny układ
+tor → nazwy charakterystycznych elementów → pochodzenie nazw
 tor → Wikimedia Commons SVG
 ```
 
-Nie każda ścieżka będzie potrzebna dla każdego toru.
+Nie każda ścieżka doprowadzi do materiału publikacyjnego. W szczególności sprawdzenie nazw charakterystycznych elementów jest obowiązkowym etapem researchu, ale sekcja w gotowym wpisie powstaje tylko wtedy, gdy istnieje wartościowy i źródłowo potwierdzony materiał.
 
 ## Etap 1. Ustal dokładnie, czego szukasz
 
@@ -67,16 +68,7 @@ W języku lokalnym warto używać odpowiedników słów takich jak:
 - nazwa;
 - sponsor.
 
-Po znalezieniu oficjalnej domeny należy przeszukiwać ją bezpośrednio. Jeżeli wyszukiwarka obsługuje operator `site:`, używaj na przykład:
-
-```text
-site:example-circuit.com history
-site:example-circuit.com name
-site:example-circuit.com sponsor
-site:example-circuit.com press release
-```
-
-Nie zakładaj, że strona główna zawiera najlepsze informacje. Szukaj podstron typu `History`, `About`, `Track`, `Press`, `News`, `Media`, `Timeline`, `Contact` i ich lokalnych odpowiedników.
+Po znalezieniu oficjalnej domeny należy przeszukiwać ją bezpośrednio. Szukaj podstron typu `History`, `About`, `Track`, `Circuit`, `Map`, `Press`, `News`, `Media`, `Timeline`, `Contact` i ich lokalnych odpowiedników.
 
 ## Etap 3. Zweryfikuj aktualną nazwę
 
@@ -115,7 +107,7 @@ Przykładowe zapytania:
 
 Następnie wykonaj analogiczne zapytania w języku lokalnym.
 
-W historii obiektu skupiaj się na faktach potrzebnych do wyjaśnienia nazwy. Nie rozbudowuj wpisu o całą historię sportową, jeśli nie ma związku z nazewnictwem.
+W historii obiektu skupiaj się na faktach potrzebnych do wyjaśnienia nazewnictwa. Nie rozbudowuj wpisu o całą historię sportową, jeśli nie ma związku z nazwami.
 
 ## Etap 5. Badaj nazwę w języku lokalnym
 
@@ -132,15 +124,7 @@ Przykładowe typy zapytań:
 "nazwa toru" historia nazwy
 ```
 
-W praktyce należy używać odpowiedników tych pojęć w języku danego kraju, na przykład:
-
-- niemiecki: `Namensherkunft`, `Ortsname`, `Geschichte`, `Bedeutung`;
-- włoski: `origine del nome`, `etimologia`, `storia`;
-- portugalski: `origem do nome`, `etimologia`, `história`;
-- hiszpański: `origen del nombre`, `etimología`, `historia`;
-- francuski: `origine du nom`, `étymologie`, `histoire`.
-
-Dla innych języków należy utworzyć analogiczne lokalne zapytania.
+Dla innych języków należy użyć lokalnych odpowiedników pojęć takich jak pochodzenie nazwy, historia, znaczenie, nazwa miejscowa i etymologia.
 
 ## Etap 6. Oddziel znaczenie słowa od etymologii nazwy
 
@@ -176,17 +160,6 @@ Szukaj w:
 - publikacjach naukowych;
 - słownikach nazw miejscowych i opracowaniach onomastycznych.
 
-Przykładowe zapytania:
-
-```text
-"Nazwa miejsca" etymology
-"Nazwa miejsca" name origin
-"Nazwa miejsca" historical name
-"Nazwa miejsca" local history
-```
-
-Następnie wykonaj odpowiedniki w języku lokalnym.
-
 ## Etap 8. Jeżeli tor nosi imię osoby, zbadaj patrona osobno
 
 Ustal:
@@ -199,8 +172,6 @@ Ustal:
 
 Preferuj oficjalną historię toru, źródła biograficzne, archiwa, federacje sportowe i oficjalne materiały serii.
 
-Nie zakładaj, że osoba jest patronem tylko dlatego, że jej nazwisko występuje w nazwie obiektu — sprawdź akt lub historię nadania nazwy.
-
 ## Etap 9. Jeżeli występuje sponsor, traktuj go jako informację zmienną
 
 Szukaj:
@@ -212,16 +183,7 @@ Szukaj:
 "Nazwa toru" renamed sponsor
 ```
 
-oraz odpowiedników w języku lokalnym.
-
-Preferuj:
-
-- oficjalny komunikat toru;
-- oficjalny komunikat sponsora;
-- aktualną stronę obiektu;
-- oficjalny komunikat organizatora zawodów.
-
-Zapisuj datę weryfikacji, jeżeli człon sponsorski jest częścią współczesnej nazwy.
+Preferuj oficjalny komunikat toru, sponsora lub organizatora zawodów. Zapisuj datę weryfikacji, jeżeli człon sponsorski jest częścią współczesnej nazwy.
 
 ## Etap 10. Szukaj dawnych nazw oddzielnie
 
@@ -236,20 +198,77 @@ Szukaj kombinacji:
 "Dawna nazwa" "obecna nazwa"
 ```
 
-oraz odpowiedników lokalnych.
-
 Jeżeli znajdziesz dawną nazwę w źródle wtórnym, spróbuj znaleźć niezależne potwierdzenie w źródle pierwotnym, archiwalnym lub oficjalnym.
 
-## Etap 11. Używaj wyników wtórnych jako mapy, nie jako końca badania
+## Etap 11. Sprawdź nazwy charakterystycznych elementów toru
 
-Wikipedia, encyklopedie internetowe, portale motorsportowe i wyniki wyszukiwarki mogą ujawnić:
+Dla każdego toru wykonaj osobną ścieżkę:
 
-- inną pisownię nazwy;
-- datę zmiany nazwy;
-- nazwisko patrona;
-- nazwę dawnego obiektu;
-- nazwę dokumentu lub instytucji;
-- potencjalne źródło pierwotne.
+```text
+tor → nazwy charakterystycznych elementów → pochodzenie nazw
+```
+
+### 11.1. Najpierw ustal współczesny układ
+
+Znajdź oficjalną mapę lub opis aktualnej konfiguracji. Ustal, czy zakręty, proste, szykany, nawroty, sekwencje lub inne fragmenty mają utrwalone nazwy.
+
+Nie zakładaj, że każdy numer zakrętu ma nazwę własną.
+
+### 11.2. Zbadaj status każdej istotnej nazwy
+
+Dla każdej potencjalnej pozycji sprawdź:
+
+- czy nazwa jest rzeczywiście używana;
+- czy jest oficjalna, tradycyjna, potoczna, komentatorska, sponsorska lub historyczna;
+- czy ma warianty pisowni;
+- czy zmieniała się w czasie;
+- czy zmiana nazwy nastąpiła bez zmiany geometrii.
+
+### 11.3. Zbadaj pochodzenie osobno
+
+Nie traktuj potwierdzenia użycia nazwy jako dowodu jej etymologii.
+
+Szukaj m.in.:
+
+```text
+"Nazwa elementu" "Nazwa toru" history
+"Nazwa elementu" "Nazwa toru" name origin
+"Nazwa elementu" corner name
+"Nazwa elementu" straight name
+site:oficjalna-domena "Nazwa elementu"
+```
+
+Jeżeli nazwa pochodzi od:
+
+- **miejsca** – zbadaj to miejsce;
+- **osoby** – sprawdź osobę i powód upamiętnienia;
+- **organizacji** – sprawdź relację organizacji z torem;
+- **innego toru lub obiektu** – potwierdź ten związek;
+- **kształtu lub funkcji** – znajdź źródło, które tak to objaśnia;
+- **sponsora** – traktuj informację jako zmienną w czasie.
+
+### 11.4. Kryterium publikacji
+
+Sekcja `Nazwy charakterystycznych elementów toru` powstaje tylko wtedy, gdy research ujawni utrwalone nazwy wnoszące istotny kontekst.
+
+Nie publikuj:
+
+- listy zakrętów oznaczonych wyłącznie numerami;
+- nazw wymyślonych na podstawie geometrii;
+- pojedynczych przypadkowych określeń z forum lub komentarza;
+- etymologii dopowiedzianej bez źródła.
+
+Brak takiej sekcji jest prawidłowym wynikiem.
+
+### 11.5. Domyślna kolejność
+
+Dla współczesnego układu prezentuj elementy w kolejności przejazdu okrążenia. Numery zakrętów podawaj pomocniczo, jeżeli są jednoznacznie ustalone.
+
+Dla materiału wyłącznie historycznego można zastosować porządek chronologiczny lub inny lepiej odpowiadający źródłom.
+
+## Etap 12. Używaj wyników wtórnych jako mapy, nie jako końca badania
+
+Wikipedia, encyklopedie internetowe, portale motorsportowe i wyniki wyszukiwarki mogą ujawnić inne warianty nazw, daty zmian, patronów, dokumenty albo potencjalne źródła pierwotne.
 
 Jeżeli pojawia się istotne twierdzenie:
 
@@ -258,7 +277,7 @@ Jeżeli pojawia się istotne twierdzenie:
 3. wyszukaj tę samą informację bezpośrednio w domenie instytucji;
 4. dopiero wtedy użyj jej jako podstawy wpisu.
 
-## Etap 12. Korzystaj z operatorów wyszukiwania, gdy są dostępne
+## Etap 13. Korzystaj z operatorów wyszukiwania, gdy są dostępne
 
 Pomocne operatory:
 
@@ -270,16 +289,9 @@ filetype:pdf fraza
 "nazwa" archive
 ```
 
-Przydatne zastosowania:
-
-- `site:` – przeszukanie oficjalnej domeny;
-- cudzysłów – historyczne warianty nazw i dokładne nazwy własne;
-- `filetype:pdf` – raporty, broszury historyczne, dokumenty urzędowe i publikacje naukowe;
-- połączenie nazwy z nazwą instytucji – zawężenie wyników do właściwego regionu.
-
 Jeżeli używane narzędzie wyszukujące nie obsługuje operatora, należy osiągnąć ten sam cel przez osobne wyszukiwanie domenowe lub bezpośrednie przeglądanie serwisu.
 
-## Etap 13. Traktuj PDF-y, archiwa i skany jako pełnoprawne źródła
+## Etap 14. Traktuj PDF-y, archiwa i skany jako pełnoprawne źródła
 
 Warto aktywnie szukać:
 
@@ -288,13 +300,12 @@ Warto aktywnie szukać:
 - archiwalnych map;
 - publikacji naukowych;
 - rejestrów zabytków;
-- dokumentów nadań ziemskich;
 - materiałów muzealnych;
-- starych programów zawodów, jeśli dotyczą nazewnictwa.
+- dawnych map i programów zawodów, jeśli dotyczą nazewnictwa toru lub jego elementów.
 
-Jeżeli dokument jest skanem lub PDF-em, agent powinien sprawdzić nie tylko wynik wyszukiwarki, ale treść właściwego dokumentu i stronę, na której znajduje się istotna informacja.
+Jeżeli dokument jest skanem lub PDF-em, sprawdź treść właściwego dokumentu i konkretną stronę, na której znajduje się istotna informacja.
 
-## Etap 14. Zweryfikuj, że źródło dotyczy właściwego miejsca
+## Etap 15. Zweryfikuj, że źródło dotyczy właściwego miejsca
 
 Przed przyjęciem źródła porównaj co najmniej:
 
@@ -305,11 +316,9 @@ Przed przyjęciem źródła porównaj co najmniej:
 - nazwę obiektu;
 - kontekst historyczny.
 
-To szczególnie ważne przy powtarzalnych nazwach geograficznych.
+To szczególnie ważne przy nazwach elementów pochodzących od innych torów, miejscowości lub budynków.
 
-Jeżeli źródło opisuje obiekt o tej samej nazwie w innym stanie, kraju lub regionie, należy je odrzucić, nawet jeśli treść brzmi wiarygodnie.
-
-## Etap 15. Zbuduj macierz dowodową przed pisaniem
+## Etap 16. Zbuduj macierz dowodową przed pisaniem
 
 Przed utworzeniem finalnego wpisu agent powinien umieć przypisać źródło do każdego kluczowego twierdzenia.
 
@@ -325,29 +334,29 @@ Minimalna macierz:
 | Patron | oficjalna historia + źródło biograficzne |
 | Nazwa sponsorska | aktualny komunikat oficjalny |
 | Dawna nazwa | oficjalne lub archiwalne źródło historyczne |
+| Użycie nazwy elementu | oficjalna mapa/operator/seria |
+| Pochodzenie nazwy elementu | oficjalne lub historyczne źródło odpowiednie dla konkretnego odniesienia |
 | SVG | strona konkretnego pliku Wikimedia Commons |
 
-Nie trzeba publikować tej tabeli w każdym wpisie. Jest narzędziem kontroli researchu.
-
-## Etap 16. Kryterium zakończenia wyszukiwań
-
-Nie należy kończyć badania tylko dlatego, że znaleziono pierwszy sensowny artykuł.
+## Etap 17. Kryterium zakończenia wyszukiwań
 
 Można przejść do pisania, gdy:
 
 - dokładnie zidentyfikowano tor;
-- aktualna nazwa jest zweryfikowana w aktualnym źródle;
+- aktualna nazwa jest zweryfikowana;
 - dla etymologii znaleziono źródło odpowiedniego rodzaju albo jasno ustalono, że pozostaje niepewna;
 - historia nazwy jest oddzielona od historii sportowej;
 - nazwa miejsca została zbadana osobno, jeśli jest potrzebna;
 - ewentualny patron lub sponsor został zweryfikowany;
+- sprawdzono, czy istnieją utrwalone nazwy charakterystycznych elementów;
+- jeśli takie nazwy mają trafić do wpisu, oddzielono dowód użycia od dowodu pochodzenia;
 - kluczowe daty mają źródła;
 - potencjalne konflikty między źródłami zostały sprawdzone;
 - wiadomo, które twierdzenia są pewne, a które wymagają zastrzeżenia.
 
 Dodatkowe wyniki nie muszą być dalej przeglądane, jeżeli kolejne źródła jedynie powtarzają te same informacje i nie wnoszą nowej jakości dowodowej.
 
-## Etap 17. Osobna procedura dla SVG
+## Etap 18. Osobna procedura dla SVG
 
 Po zakończeniu badań tekstowych wykonaj osobne wyszukiwanie grafiki.
 
@@ -366,23 +375,6 @@ Preferowana ścieżka:
 
 Sama obecność pliku w Wikimedia Commons nie zwalnia z kontroli jego konkretnej strony i licencji.
 
-## Przykładowy schemat researchu
-
-Dla hipotetycznego toru `Example Ring` agent może wykonać serię wyszukiwań:
-
-```text
-"Example Ring" official
-site:example-ring.de Geschichte
-site:example-ring.de Name
-"Example Ring" former name
-"Example" Ortsname Herkunft
-"Example" Namensherkunft
-"Example Ring" sponsor
-"Example Ring" Wikimedia Commons SVG
-```
-
-Następnie powinien otworzyć właściwe źródła i zweryfikować ich treść, zamiast budować wpis wyłącznie ze streszczeń wyników wyszukiwania.
-
 ## Czego agent nie powinien robić
 
 Nie należy:
@@ -395,6 +387,8 @@ Nie należy:
 - kopiować atrakcyjnej etymologii bez sprawdzenia jej w źródle językowym lub historycznym;
 - mylić aktualnej nazwy sponsorskiej z ponadczasową nazwą obiektu;
 - mieszać źródeł dotyczących różnych miejsc o tej samej nazwie;
+- tworzyć nazw elementów tam, gdzie istnieją tylko numery;
+- traktować samego użycia nazwy zakrętu jako automatycznego dowodu jej pochodzenia;
 - wymyślać brakujących faktów, gdy wyszukiwanie nie daje odpowiedzi.
 
 ## Relacja z pozostałą dokumentacją
