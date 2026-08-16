@@ -72,6 +72,8 @@ Nie należy tworzyć polskiej nazwy własnej typu „Tor Suche Jezioro”.
 
 ## Stopka redakcyjna
 
+**Redakcja:** Mikołaj Rotnicki.  
+**Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
 **Charakter opracowania:** popularnonaukowe objaśnienie etymologii i pochodzenia nazwy toru.  
 **Język opracowania:** polski; nazwy własne pozostawiane są w formie oryginalnej.  
 **Zasada źródłowa:** w pierwszej kolejności wykorzystywane są źródła oficjalne, archiwalne i językowe; źródła wtórne służą do uzupełnienia kontekstu.  
