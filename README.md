@@ -31,7 +31,8 @@ Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytori
 Metoda pracy jest zapisana w repozytorium, aby kolejne opracowania mogły powstawać według tego samego schematu niezależnie od tego, czy przygotowuje je człowiek, czy agent AI.
 
 - [Metodologia opracowania](docs/methodology.md) – zakres badań, rozróżnienia nazw, zasady etymologiczne i kontrola jakości.
-- [Polityka źródeł](docs/source-policy.md) – hierarchia źródeł, wyszukiwanie, weryfikacja i rozwiązywanie konfliktów.
+- [Polityka źródeł](docs/source-policy.md) – hierarchia źródeł, ocena wiarygodności, weryfikacja i rozwiązywanie konfliktów.
+- [Playbook wyszukiwania internetowego](docs/internet-research-playbook.md) – krok po kroku: jak rozdzielać ścieżki badawcze, jak formułować zapytania, używać języka lokalnego, przechodzić od źródeł wtórnych do pierwotnych i kiedy zakończyć research.
 - [Szablon wpisu toru](docs/circuit-entry-template.md) – zalecana struktura pliku w `circuits/`.
 - [SVG: dostępność, licencjonowanie i sposób użycia](docs/svg-accessibility-and-licensing.md) – wybór, kopiowanie, osadzanie i dostosowanie schematów torów.
 - [Instrukcje dla agentów AI](AGENTS.md) – skrócone reguły pracy w repozytorium.
