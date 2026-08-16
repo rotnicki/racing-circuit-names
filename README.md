@@ -11,6 +11,17 @@ Celem projektu jest dokumentowanie odpowiedzi na pytania takie jak:
 - jak najlepiej wyjaśnić jej znaczenie po polsku, bez sztucznego tłumaczenia utrwalonej nazwy własnej;
 - jakie inne nazwy tor nosił w przeszłości.
 
+## Autorstwo i wykorzystanie AI
+
+**Koncepcja projektu, redakcja i nadzór merytoryczny:** Mikołaj Rotnicki  
+**Wsparcie badawcze i redakcyjne dotychczasowych opracowań:** ChatGPT (OpenAI)
+
+Projekt powstał z inicjatywy Mikołaja Rotnickiego. Narzędzia AI są wykorzystywane jako wsparcie w wyszukiwaniu i porównywaniu źródeł, porządkowaniu materiału, przygotowywaniu wersji roboczych tekstu oraz technicznej obsłudze repozytorium. Metodologia, zakres projektu, decyzje redakcyjne i sposób prezentacji opracowań są utrzymywane w samym repozytorium.
+
+Podpis nie oznacza, że każda linia tekstu została napisana samodzielnie bez użycia AI. Ma transparentnie wskazywać rzeczywisty sposób powstawania opracowań. Jeżeli w przyszłości konkretne opracowanie powstanie przy istotnym wsparciu innego systemu AI lub innego współtwórcy, informacja w jego stopce powinna zostać odpowiednio zaktualizowana.
+
+Autorstwo i licencje materiałów zewnętrznych, w szczególności schematów SVG z Wikimedia Commons, są dokumentowane oddzielnie i nie są objęte powyższym podpisem redakcyjnym.
+
 ## Zasada opracowania
 
 Każdy tor ma osobny plik w katalogu `circuits/`. Wpis powinien w miarę możliwości zawierać:
@@ -30,7 +41,7 @@ Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytori
 
 Metoda pracy jest zapisana w repozytorium, aby kolejne opracowania mogły powstawać według tego samego schematu niezależnie od tego, czy przygotowuje je człowiek, czy agent AI.
 
-- [Metodologia opracowania](docs/methodology.md) – zakres badań, rozróżnienia nazw, zasady etymologiczne i kontrola jakości.
+- [Metodologia opracowania](docs/methodology.md) – zakres badań, rozróżnienia nazw, zasady etymologiczne, autorstwo i kontrola jakości.
 - [Polityka źródeł](docs/source-policy.md) – hierarchia źródeł, ocena wiarygodności, weryfikacja i rozwiązywanie konfliktów.
 - [Playbook wyszukiwania internetowego](docs/internet-research-playbook.md) – krok po kroku: jak rozdzielać ścieżki badawcze, jak formułować zapytania, używać języka lokalnego, przechodzić od źródeł wtórnych do pierwotnych i kiedy zakończyć research.
 - [Szablon wpisu toru](docs/circuit-entry-template.md) – zalecana struktura pliku w `circuits/`.
