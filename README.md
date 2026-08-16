@@ -45,3 +45,4 @@ Pliki w `docs/` stanowią neutralne źródło prawdy dla projektu. Instrukcje pr
 - [Laguna Seca](circuits/laguna-seca.md)
 - [Interlagos](circuits/interlagos.md)
 - [Hockenheimring](circuits/hockenheim.md)
+- [Kyalami](circuits/kyalami.md)
