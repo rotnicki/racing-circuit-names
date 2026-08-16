@@ -57,3 +57,4 @@ Pliki w `docs/` stanowią neutralne źródło prawdy dla projektu. Instrukcje pr
 - [Interlagos](circuits/interlagos.md)
 - [Hockenheimring](circuits/hockenheim.md)
 - [Kyalami](circuits/kyalami.md)
+- [Tor Poznań](circuits/tor-poznan.md)
