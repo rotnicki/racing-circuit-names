@@ -71,6 +71,143 @@ Aktualna oficjalna strona używa nazwy **Silverstone Circuit**. Nie występuje o
 
 Współczesny układ Grand Prix ma **5,891 km** i **18 zakrętów**. Obecna zasadnicza konfiguracja powstała po przebudowie z 2010 roku, a od 2011 roku wyścigi Formuły 1 korzystają z nowego kompleksu boksów i budynku `The Wing`.
 
+## Nazwy charakterystycznych elementów toru
+
+Silverstone ma wyjątkowo rozbudowany system nazw zakrętów, prostych i sekcji. Poniżej podano charakterystyczne elementy w kolejności przejazdu współczesnego okrążenia Grand Prix. Numery zakrętów są pomocnicze; istotą tej sekcji są utrwalone nazwy i ich pochodzenie.
+
+### Hamilton Straight
+
+**Rodzaj:** prosta startowa i boksowa współczesnego układu Grand Prix.  
+**Pochodzenie nazwy:** Lewis Hamilton.
+
+Do grudnia 2020 roku odcinek był znany jako **International Pits Straight**. British Racing Drivers’ Club przemianował go na Hamilton Straight po zdobyciu przez Lewisa Hamiltona siódmego mistrzostwa świata Formuły 1. Silverstone podkreślało przy tej okazji, że był to pierwszy przypadek w historii toru, gdy jego część nazwano imieniem konkretnej osoby.
+
+### Abbey — zakręt 1
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Luffield Abbey.
+
+Nazwa odnosi się do dawnego opactwa Luffield, którego pozostałości znajdowały się w pobliżu toru. To przykład nazwy przeniesionej z lokalnego obiektu historycznego.
+
+### Farm — zakręt 2
+
+**Rodzaj:** zakręt; wcześniej nazwa odcinka prostego.  
+**Pochodzenie nazwy:** pobliskie gospodarstwo.
+
+Pierwotnie `Farm` odnosiło się do krótkiej prostej przebiegającej obok gospodarstwa. Po przebudowie układu w 2010 roku nazwa pozostała, choć oznacza dziś łagodny zakręt.
+
+### Village — zakręt 3
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** wieś Silverstone.
+
+`Village` odnosi się do najbliższej miejscowości — Silverstone. Jest to szczególnie interesujące dla projektu, ponieważ ta sama miejscowość dała nazwę całemu torowi.
+
+### The Loop — zakręt 4
+
+**Rodzaj:** nawrót / ciasny zakręt.  
+**Pochodzenie nazwy:** kształt elementu.
+
+To nazwa czysto opisowa. Formula 1 wskazuje, że `The Loop` jest jedynym zakrętem Silverstone nazwanym bezpośrednio od swojego kształtu.
+
+### Aintree — zakręt 5
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Aintree.
+
+Nazwa upamiętnia Aintree — obiekt znany dziś przede wszystkim z wyścigów konnych, który w latach 1955–1962 pięciokrotnie gościł Grand Prix Wielkiej Brytanii Formuły 1. Jest to nazwa odwołująca się do innego historycznego miejsca brytyjskiego motorsportu.
+
+### Wellington Straight
+
+**Rodzaj:** prosta.  
+**Pochodzenie nazwy:** bombowce Vickers Wellington i lotnicza przeszłość Silverstone.
+
+Odcinek nosił wcześniej nazwę **National Straight**. Gdy w 2010 roku stał się częścią nowego układu Grand Prix, otrzymał nazwę Wellington Straight. Prosta powstała na fragmencie dawnego pasa lotniska RAF Silverstone, z którego korzystały bombowce Wellington.
+
+### Brooklands — zakręt 6
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Brooklands.
+
+Nazwa jest hołdem dla historycznego toru Brooklands, jednego z najważniejszych miejsc w początkach brytyjskich wyścigów samochodowych i gospodarza pierwszych Grand Prix Wielkiej Brytanii w latach 1926–1927.
+
+### Luffield — zakręt 7
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Luffield Chapel / Luffield Abbey.
+
+Nazwa odwołuje się do tego samego lokalnego kompleksu historycznego co `Abbey`. Przed zmianami układu zakręt był przez pewien czas rozdzielony na `Luffield 1` i `Luffield 2`.
+
+### Woodcote — zakręt 8
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Woodcote Park.
+
+Woodcote Park w Surrey jest obiektem związanym z Royal Automobile Club. RAC organizował pierwsze duże wyścigi na Silverstone i miał wpływ na nazewnictwo wczesnych elementów toru.
+
+### National Pits Straight
+
+**Rodzaj:** prosta.  
+**Pochodzenie nazwy:** funkcjonalne powiązanie z dawną linią start/meta i układem National.
+
+Współczesne materiały Silverstone nadal używają określenia `National Pits Straight` dla odcinka obejmującego pierwotną linię start/meta toru. Nie odnaleziono jednak źródła dokumentującego konkretny moment formalnego nadania tej nazwy. Można więc dobrze potwierdzić **użycie i funkcję**, ale nie należy dopowiadać nieudokumentowanej historii nazewniczej.
+
+### Copse — zakręt 9
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** pobliskie zagajniki.
+
+Angielskie `copse` oznacza niewielki zagajnik. Zakręt przebiega blisko miejsc określanych jako Chapel Copse i Cheese Copse, od których wywodzi się jego nazwa.
+
+### Maggotts — zakręty 10–11
+
+**Rodzaj:** początek szybkiej sekwencji zakrętów.  
+**Pochodzenie nazwy:** Maggots Moor.
+
+Nazwa nie pochodzi od angielskiego `maggot` oznaczającego larwę, lecz od pobliskiego obszaru **Maggots Moor**. W oficjalnych materiałach spotyka się warianty zapisu `Maggotts` i `Maggots`; w tym opracowaniu zachowano formę `Maggotts` stosowaną w aktualnym objaśnieniu Formuły 1, a wariant `Maggots` odnotowano jako rzeczywiście używany przez operatora toru.
+
+### Becketts — zakręty 12–13
+
+**Rodzaj:** część szybkiej sekwencji.  
+**Pochodzenie nazwy:** kaplica św. Tomasza Becketa.
+
+`Becketts` odwołuje się do średniowiecznej kaplicy upamiętniającej Tomasza Becketa, arcybiskupa Canterbury zamordowanego w 1170 roku. Kaplica znajdowała się w pobliżu i została rozebrana w 1943 roku podczas budowy lotniska.
+
+### Chapel — zakręt 14
+
+**Rodzaj:** końcowa część szybkiej sekwencji.  
+**Pochodzenie nazwy:** ta sama średniowieczna kaplica związana z Tomaszem Becketem.
+
+`Chapel` i `Becketts` mają wspólne źródło historyczne, choć funkcjonują jako odrębne nazwy kolejnych elementów toru.
+
+### Hangar Straight
+
+**Rodzaj:** prosta.  
+**Pochodzenie nazwy:** hangary RAF Silverstone.
+
+W czasach, gdy teren był bazą Royal Air Force, w pobliżu późniejszej prostej stały duże hangary lotnicze. Nazwa zachowuje więc bezpośrednią pamięć o wojskowej historii miejsca.
+
+### Stowe — zakręt 15
+
+**Rodzaj:** zakręt.  
+**Pochodzenie nazwy:** Stowe School.
+
+Zakręt znajdujący się na końcu Hangar Straight otrzymał nazwę od pobliskiej Stowe School położonej na południe od toru.
+
+### Vale — zakręt 16
+
+**Rodzaj:** zakręt / fragment między Stowe i Club.  
+**Pochodzenie nazwy:** niepewne.
+
+Oficjalne materiały Formuły 1 zachowują co najmniej dwie interpretacje. `Vale` może odnosić się do niewielkiego obniżenia terenu — szczególnie zauważalnego na zasadniczo płaskim torze — albo do dawnego obszaru administracyjnego **Aylesbury Vale**. Nie ma podstaw, aby arbitralnie wybierać jedną z tych wersji.
+
+### Club — zakręty 17–18
+
+**Rodzaj:** końcowa sekwencja zakrętów.  
+**Pochodzenie nazwy:** Royal Automobile Club.
+
+Podobnie jak `Woodcote`, nazwa `Club` wiąże się z Royal Automobile Club. Formula 1 opisuje ją jako nawiązanie do londyńskiego clubhouse’u RAC przy Pall Mall.
+
 ## Jak rozumieć nazwę po polsku
 
 Najlepiej rozróżnić:
@@ -92,7 +229,11 @@ W zwykłym polskim użyciu nazwy toru nie należy tłumaczyć. Pozostaje **Silve
 - [Silverstone – Contact Us](https://www.silverstone.co.uk/contact-us) – współczesna nazwa `Silverstone Circuit`, adres obiektu i identyfikacja Silverstone Circuits Limited; weryfikacja 16 sierpnia 2026 roku.
 - [Silverstone – 75th Anniversary](https://www.silverstone.co.uk/news/silverstone-festival-celebrate-circuits-75th-anniversary-stunning-style) – oficjalne potwierdzenie, że pierwsze duże wydarzenie wyścigowe na terenie dawnej bazy RAF odbyło się w październiku 1948 roku.
 - [Formula 1 – Great Britain, Silverstone Circuit](https://www.formula1.com/en/information/great-britain-silverstone-circuit.2DtFVI1FjkYgLVdGhbAIv0) – współczesna długość toru 5,891 km, pierwsza runda mistrzostw świata F1 w 1950 roku oraz historia wcześniejszego wykorzystania lotniska.
-- [Formula 1 – How every Silverstone corner got its name](https://www.formula1.com/en/latest/article/explained-how-every-silverstone-corner-got-its-name.idMlxFC2gfN2ApcPmifxN.idMlxFC2gfN2ApcPmifxN) – oficjalne źródło Formuły 1 potwierdzające, że pobliska wieś Silverstone dała nazwę torowi.
+- [Formula 1 – How every Silverstone corner got its name](https://www.formula1.com/en/latest/article/explained-how-every-silverstone-corner-got-its-name.idMlxFC2gfN2ApcPmifxN.idMlxFC2gfN2ApcPmifxN) – aktualne oficjalne opracowanie pochodzenia nazw charakterystycznych elementów Silverstone oraz potwierdzenie związku wsi Silverstone z nazwą toru.
+- [Formula 1 – What’s in a name? The history behind Silverstone’s iconic corners](https://www.formula1.com/en/latest/article/whats-in-a-name-the-history-behind-silverstones-iconic-corners.4Q3miKVCXBkz5rKtyYnL5z) – wcześniejsze oficjalne opracowanie historii nazw elementów, użyte do porównania i uzupełnienia kontekstu.
+- [Silverstone – Silverstone Renames International Pits Straight In Recognition Of Lewis Hamilton’s Outstanding Achievements](https://www.silverstone.co.uk/news/silverstone-renames-international-pits-straight) – źródło pierwotne dla przemianowania International Pits Straight na Hamilton Straight 12 grudnia 2020 roku.
+- [Silverstone – Formula 1 Hospitality](https://www.silverstone.co.uk/events/formula-1-british-grand-prix/hospitality) – współczesne oficjalne użycie nazw m.in. National Pits Straight, Wellington Straight, The Loop i Village.
+- [Silverstone – FIA World Endurance Championship confirms Silverstone return](https://www.silverstone.co.uk/news/fia-world-endurance-championship-confirms-silverstone-return) – współczesny przykład użycia przez operatora wariantu `Maggots` obok `Becketts`.
 
 ### Źródła historyczne i językowe
 
@@ -112,9 +253,9 @@ W zwykłym polskim użyciu nazwy toru nie należy tłumaczyć. Pozostaje **Silve
 
 **Redakcja:** Mikołaj Rotnicki.  
 **Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
-**Charakter opracowania:** popularnonaukowe objaśnienie pochodzenia nazwy toru oraz wcześniejszej nazwy geograficznej.  
-**Język opracowania:** polski; formy staroangielskie pozostawiane są w zapisie źródłowym.  
-**Zasada źródłowa:** oddzielono historię toru od etymologii miejscowości; współczesne pozorne rozłożenie `silver + stone` nie zostało potraktowane jako etymologia bez dowodu językowego.  
-**Zasada niepewności:** zachowano obie wskazywane w opracowaniach możliwości nazwy osobowej – `Sigewulf` i `Sæwulf` – zamiast arbitralnie wybierać jedną.  
+**Charakter opracowania:** popularnonaukowe objaśnienie pochodzenia nazwy toru, wcześniejszej nazwy geograficznej oraz nazw charakterystycznych elementów współczesnego układu.  
+**Język opracowania:** polski; formy staroangielskie i angielskie nazwy elementów pozostawiane są w zapisie źródłowym.  
+**Zasada źródłowa:** oddzielono historię toru od etymologii miejscowości oraz udokumentowane użycie nazw elementów od dowodów ich pochodzenia.  
+**Zasada niepewności:** zachowano obie wskazywane w opracowaniach możliwości nazwy osobowej – `Sigewulf` i `Sæwulf`; przy `Vale` zachowano dwie oficjalnie przywoływane interpretacje; przy `National Pits Straight` nie dopowiedziano nieudokumentowanego momentu nadania nazwy.  
 **Zasada grafiki:** wykorzystano wolny SVG CC0 i dodano jedynie metadane dostępności bez zmiany geometrii.  
 **Ostatnia aktualizacja:** 16 sierpnia 2026.
