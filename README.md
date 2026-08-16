@@ -25,6 +25,7 @@ Każdy tor może mieć osobny plik w katalogu `circuits/`. Wpis powinien w miar�
 
 Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytorium pozostawia możliwość późniejszego dodania wersji anglojęzycznej bez zmiany nazwy projektu.
 
-## Pierwsze opracowanie
+## Opracowane tory
 
 - [Laguna Seca](circuits/laguna-seca.md)
+- [Interlagos](circuits/interlagos.md)
