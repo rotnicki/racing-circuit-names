@@ -11,7 +11,7 @@
 
 ![Schemat układu toru Interlagos](../assets/circuits/interlagos.svg)
 
-*Schemat: [Sas1998, „2014 Interlagos circuit map.svg”, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014_Interlagos_circuit_map.svg), licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). W repozytorium przechowywana jest kopia oryginalnego pliku SVG z Wikimedia Commons.*
+*Schemat: [Sas1998, „2014 Interlagos circuit map.svg”, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014_Interlagos_circuit_map.svg), licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Kopia w tym repozytorium została zmodyfikowana wyłącznie przez dodanie metadanych dostępności (`role`, `aria-labelledby`, `title`, `desc`); geometria i wygląd grafiki nie zostały zmienione. Zmodyfikowana wersja pozostaje na licencji CC BY-SA 4.0.*
 
 ## Znaczenie nazwy
 
