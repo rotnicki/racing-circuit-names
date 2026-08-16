@@ -106,6 +106,8 @@ Nie należy wyprowadzać nazwy Hockenheim od haków przedstawionych w herbie. Re
 
 ## Stopka redakcyjna
 
+**Redakcja:** Mikołaj Rotnicki.  
+**Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
 **Charakter opracowania:** popularnonaukowe objaśnienie etymologii i pochodzenia nazwy toru.  
 **Język opracowania:** polski; nazwy własne pozostawiane są w formie oryginalnej.  
 **Zasada źródłowa:** badania wykonano ponownie według playbooka projektu, z pierwszeństwem dla niemieckojęzycznych źródeł lokalnych, oficjalnego serwisu toru, regionalnego leksykonu historycznego i źródeł językowych.  
