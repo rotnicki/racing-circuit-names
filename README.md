@@ -1,6 +1,6 @@
 # Racing Circuit Names
 
-Repozytorium poświęcone nazwom torów wyścigowych z różnych części świata: ich znaczeniu, pochodzeniu, etymologii i historii.
+Repozytorium poświęcone nazewnictwu torów wyścigowych z różnych części świata: znaczeniu, pochodzeniu, etymologii i historii nazw samych obiektów oraz — tam, gdzie istnieje wartościowy materiał źródłowy — nazw ich charakterystycznych elementów.
 
 Celem projektu jest dokumentowanie odpowiedzi na pytania takie jak:
 
@@ -9,7 +9,8 @@ Celem projektu jest dokumentowanie odpowiedzi na pytania takie jak:
 - dlaczego tor otrzymał właśnie taką nazwę;
 - czy nazwa pochodzi od miejsca, osoby, obiektu geograficznego, sponsora albo wydarzenia historycznego;
 - jak najlepiej wyjaśnić jej znaczenie po polsku, bez sztucznego tłumaczenia utrwalonej nazwy własnej;
-- jakie inne nazwy tor nosił w przeszłości.
+- jakie inne nazwy tor nosił w przeszłości;
+- czy tor posiada utrwalone nazwy charakterystycznych zakrętów, prostych, szykan, sekcji lub innych elementów i skąd te nazwy pochodzą.
 
 ## Autorstwo i wykorzystanie AI
 
@@ -32,8 +33,11 @@ Każdy tor ma osobny plik w katalogu `circuits/`. Wpis powinien w miarę możliw
 4. pochodzenie nazwy;
 5. objaśnienie po polsku;
 6. historię nazw i nazw sponsorskich, jeśli jest istotna;
-7. źródła;
-8. bezpośrednio osadzony schemat toru, jeżeli dostępny jest odpowiedni plik na właściwej licencji.
+7. nazwy charakterystycznych elementów toru, jeżeli research wykaże utrwalone i warte objaśnienia nazewnictwo;
+8. źródła;
+9. bezpośrednio osadzony schemat toru, jeżeli dostępny jest odpowiedni plik na właściwej licencji.
+
+Sprawdzenie nazewnictwa charakterystycznych elementów jest częścią standardowego researchu, ale sama sekcja jest opcjonalna. Nie tworzymy katalogu elementów oznaczonych wyłącznie numerami ani nie wymyślamy nazw tam, gdzie źródła ich nie potwierdzają.
 
 Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytorium pozostawia możliwość późniejszego dodania wersji anglojęzycznej bez zmiany nazwy projektu.
 
@@ -41,15 +45,19 @@ Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytori
 
 Metoda pracy jest zapisana w repozytorium, aby kolejne opracowania mogły powstawać według tego samego schematu niezależnie od tego, czy przygotowuje je człowiek, czy agent AI.
 
-- [Metodologia opracowania](docs/methodology.md) – zakres badań, rozróżnienia nazw, zasady etymologiczne, autorstwo i kontrola jakości.
-- [Polityka źródeł](docs/source-policy.md) – hierarchia źródeł, ocena wiarygodności, weryfikacja i rozwiązywanie konfliktów.
-- [Playbook wyszukiwania internetowego](docs/internet-research-playbook.md) – krok po kroku: jak rozdzielać ścieżki badawcze, jak formułować zapytania, używać języka lokalnego, przechodzić od źródeł wtórnych do pierwotnych i kiedy zakończyć research.
-- [Szablon wpisu toru](docs/circuit-entry-template.md) – zalecana struktura pliku w `circuits/`.
+- [Metodologia opracowania](docs/methodology.md) – zakres badań, rozróżnienia nazw, zasady etymologiczne, nazwy charakterystycznych elementów, autorstwo i kontrola jakości.
+- [Polityka źródeł](docs/source-policy.md) – hierarchia źródeł, ocena wiarygodności, weryfikacja i rozwiązywanie konfliktów, także dla nazw elementów toru.
+- [Playbook wyszukiwania internetowego](docs/internet-research-playbook.md) – krok po kroku: jak rozdzielać ścieżki badawcze, jak badać nazwę toru i nazwy jego charakterystycznych elementów, używać języka lokalnego, przechodzić od źródeł wtórnych do pierwotnych i kiedy zakończyć research.
+- [Szablon wpisu toru](docs/circuit-entry-template.md) – zalecana struktura pliku w `circuits/`, w tym opcjonalna sekcja nazw charakterystycznych elementów.
 - [SVG: dostępność, licencjonowanie i sposób użycia](docs/svg-accessibility-and-licensing.md) – wybór, kopiowanie, osadzanie i dostosowanie schematów torów.
 - [Instrukcje dla agentów AI](AGENTS.md) – skrócone reguły pracy w repozytorium.
 - [Agent Skill: Racing Circuit Research](.agents/skills/racing-circuit-research/SKILL.md) – powtarzalna procedura badania, przygotowania i publikacji kolejnego toru.
 
 Pliki w `docs/` stanowią neutralne źródło prawdy dla projektu. Instrukcje przeznaczone dla agentów odwołują się do nich zamiast powielać całą metodologię.
+
+## Historia rozwoju metodologii
+
+Rozszerzenie projektu o **nazwy charakterystycznych elementów toru** zostało najpierw przetestowane eksperymentalnie na dwóch kontrastowych przypadkach: bogato nazwanym Silverstone oraz Torze Poznań, dla którego w sprawdzonych oficjalnych materiałach nie znaleziono porównywalnego systemu utrwalonych nazw. Dokumentacja pilotażu pozostaje w `docs/experiments/` jako zapis procesu wypracowania reguły.
 
 ## Opracowane tory
 
