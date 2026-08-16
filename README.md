@@ -59,3 +59,4 @@ Pliki w `docs/` stanowią neutralne źródło prawdy dla projektu. Instrukcje pr
 - [Kyalami](circuits/kyalami.md)
 - [Tor Poznań](circuits/tor-poznan.md)
 - [Silverstone](circuits/silverstone.md)
+- [Silesia Ring](circuits/silesia-ring.md)
