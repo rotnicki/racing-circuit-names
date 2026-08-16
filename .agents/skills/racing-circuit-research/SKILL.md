@@ -1,6 +1,6 @@
 ---
 name: racing-circuit-research
-description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including internet research, etymology, naming history, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
+description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including internet research, etymology, naming history, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, transparent authorship, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
 ---
 
 # Racing Circuit Research
@@ -175,13 +175,31 @@ Place the circuit image high in the entry, normally immediately after basic info
 
 Add the attribution and license statement directly below it.
 
-### 11. Update the README index
+### 11. Add transparent authorship information
+
+Treat the following as the default editorial attribution for this project:
+
+```text
+Redakcja: Mikołaj Rotnicki.
+```
+
+Record AI support according to the actual tool used. For work performed with ChatGPT, use:
+
+```text
+Wsparcie badawcze i redakcyjne: ChatGPT (OpenAI).
+```
+
+Do not automatically name ChatGPT if another AI system performed the work. Adapt or remove the AI-support line to reflect the actual workflow.
+
+This attribution applies to the editorial/research work only. Keep authorship and licensing of external assets such as SVG files separate.
+
+### 12. Update the README index
 
 Add the circuit to `## Opracowane tory` in `README.md`.
 
 Use a descriptive Markdown link to the circuit file.
 
-### 12. Final verification
+### 13. Final verification
 
 Before declaring the task complete, check all of the following:
 
@@ -198,8 +216,9 @@ Before declaring the task complete, check all of the following:
 - SVG provenance and license are clear;
 - SVG attribution includes modification information when required;
 - Markdown has meaningful alt text;
-- SVG has `role`, `aria-labelledby`, `title`, and `desc`;
-- SVG is embedded directly in the circuit entry;
+- SVG has `role`, `aria-labelledby`, `title`, and `desc` when an SVG is used;
+- SVG is embedded directly in the circuit entry when an appropriate SVG exists;
+- editorial attribution is present and AI support reflects the actual workflow;
 - README index is updated;
 - last-update date is correct.
 
@@ -210,7 +229,8 @@ After repository changes, summarize concisely:
 - the core etymological conclusion;
 - any important uncertainty;
 - which files were added or updated;
-- whether the SVG and accessibility metadata were added.
+- whether the SVG and accessibility metadata were added;
+- whether the editorial attribution was applied.
 
 Do not bury an unresolved source problem behind a polished summary.
 
