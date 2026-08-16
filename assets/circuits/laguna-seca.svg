@@ -20,7 +20,12 @@
    inkscape:export-filename="D:\Images\Race Tracks\Laguna Seca.png"
    inkscape:export-xdpi="90.015755"
    inkscape:export-ydpi="90.015755"
-   version="1.0">
+   version="1.0"
+   role="img"
+   aria-labelledby="laguna-seca-title laguna-seca-desc">
+  <!-- Accessibility metadata added 2026-08-16; geometry and visual appearance unchanged. -->
+  <title id="laguna-seca-title">Schemat układu toru Laguna Seca</title>
+  <desc id="laguna-seca-desc">Schemat nitki toru wyścigowego Laguna Seca w Monterey County w Kalifornii, z oznaczeniami zakrętów i kierunku jazdy.</desc>
   <defs
      id="defs2504">
     <clipPath

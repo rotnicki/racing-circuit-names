@@ -18,7 +18,12 @@
    sodipodi:docname="2014_Interlagos_circuit_map.svg"
    inkscape:export-filename="C:\Users\Simeon Stocco\Documents\Racing\Formula 1\Other\2014 Interlagos Circuit Map.png"
    inkscape:export-xdpi="120"
-   inkscape:export-ydpi="120">
+   inkscape:export-ydpi="120"
+   role="img"
+   aria-labelledby="interlagos-title interlagos-desc">
+  <!-- Accessibility metadata added 2026-08-16; geometry and visual appearance unchanged. -->
+  <title id="interlagos-title">Schemat układu toru Interlagos</title>
+  <desc id="interlagos-desc">Schemat nitki toru Autódromo José Carlos Pace, powszechnie nazywanego Interlagos, w São Paulo w Brazylii.</desc>
   <defs
      id="defs4">
     <pattern
