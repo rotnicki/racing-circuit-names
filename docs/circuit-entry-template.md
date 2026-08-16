@@ -79,6 +79,8 @@ Należy unikać sztucznego tworzenia polskiej nazwy własnej, jeżeli nie funkcj
 
 ## Stopka redakcyjna
 
+**Redakcja:** Mikołaj Rotnicki.  
+**Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
 **Charakter opracowania:** popularnonaukowe objaśnienie etymologii i pochodzenia nazwy toru.  
 **Język opracowania:** polski; nazwy własne pozostawiane są w formie oryginalnej.  
 **Zasada źródłowa:** w pierwszej kolejności wykorzystywane są źródła oficjalne, archiwalne, historyczne i językowe; źródła wtórne służą do uzupełnienia kontekstu.  
@@ -93,3 +95,4 @@ Należy unikać sztucznego tworzenia polskiej nazwy własnej, jeżeli nie funkcj
 - W przypadku patrona warto utworzyć osobną sekcję o tej osobie, jeżeli ma to znaczenie dla wyjaśnienia nazwy.
 - W przypadku nazwy geograficznej należy badać także historię samej nazwy miejsca.
 - Jeżeli schemat SVG nie jest dostępny na odpowiedniej licencji, nie należy zastępować go plikiem o niepewnym statusie prawnym tylko po to, aby zachować kompletność wizualną.
+- Linia o wsparciu AI ma odzwierciedlać rzeczywiste narzędzie użyte przy danym opracowaniu. Jeżeli ChatGPT nie był używany, należy zmienić lub usunąć tę linię.
