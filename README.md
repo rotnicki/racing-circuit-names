@@ -29,3 +29,4 @@ Treść repozytorium jest obecnie tworzona po polsku. Angielska nazwa repozytori
 
 - [Laguna Seca](circuits/laguna-seca.md)
 - [Interlagos](circuits/interlagos.md)
+- [Hockenheimring](circuits/hockenheim.md)
