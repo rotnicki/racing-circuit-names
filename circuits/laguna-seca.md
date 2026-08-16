@@ -10,7 +10,7 @@
 
 ![Schemat układu toru Laguna Seca](../assets/circuits/laguna-seca.svg)
 
-*Schemat: [Will Pittenger, „Laguna Seca.svg”, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laguna_Seca.svg), licencja [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). W repozytorium przechowywana jest kopia oryginalnego pliku SVG z Wikimedia Commons.*
+*Schemat: [Will Pittenger, „Laguna Seca.svg”, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laguna_Seca.svg), licencja [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Kopia w tym repozytorium została zmodyfikowana wyłącznie przez dodanie metadanych dostępności (`role`, `aria-labelledby`, `title`, `desc`); geometria i wygląd grafiki nie zostały zmienione. Zmodyfikowana wersja pozostaje na licencji CC BY-SA 3.0.*
 
 ## Znaczenie nazwy
 
