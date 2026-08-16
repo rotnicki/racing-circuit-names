@@ -73,6 +73,29 @@ Należy:
 - unikać tworzenia sztucznych polskich nazw własnych;
 - pisać zwięźle, ale wystarczająco dokładnie, aby czytelnik rozumiał źródło nazwy.
 
+## Autorstwo, redakcja i wykorzystanie AI
+
+Koncepcja projektu, jego zakres, metodologia, decyzje redakcyjne i nadzór merytoryczny są przypisane **Mikołajowi Rotnickiemu**.
+
+Narzędzia AI mogą być wykorzystywane do:
+
+- wyszukiwania i porównywania źródeł;
+- przygotowywania zestawień i syntez;
+- redagowania wersji roboczych;
+- kontroli spójności wpisów;
+- pomocy technicznej przy utrzymaniu repozytorium.
+
+Udział AI powinien być ujawniony w stopce konkretnego opracowania. Dla wpisów przygotowanych przy pomocy ChatGPT stosujemy:
+
+```text
+Redakcja: Mikołaj Rotnicki.
+Wsparcie badawcze i redakcyjne: ChatGPT (OpenAI).
+```
+
+Jeżeli konkretne opracowanie powstanie przy istotnym wsparciu innego systemu AI albo innej osoby, stopkę należy dostosować do rzeczywistego przebiegu pracy. Nie należy automatycznie przypisywać udziału ChatGPT do materiału, przy którym nie był używany.
+
+Podpis redakcyjny dotyczy opracowania tekstowego i procesu redakcyjnego. Nie obejmuje autorstwa materiałów zewnętrznych, takich jak schematy torów, fotografie lub inne pliki. Ich autorstwo i licencje dokumentuje się osobno.
+
 ## Struktura wpisu
 
 Bazowy układ znajduje się w `docs/circuit-entry-template.md`.
@@ -107,6 +130,7 @@ Przed zakończeniem opracowania należy sprawdzić:
 - czy linki prowadzą do właściwych dokumentów;
 - czy SVG ma prawidłową licencję i informacje o autorze;
 - czy grafika ma tekst alternatywny oraz metadane dostępnościowe;
+- czy stopka wskazuje redakcję i rzeczywiste wsparcie AI;
 - czy README zawiera nowy tor;
 - czy data ostatniej aktualizacji wpisu jest poprawna.
 
