@@ -28,14 +28,42 @@ Wykonaj kolejno:
 6. zbadaj rzeczywistą etymologię;
 7. sprawdź historię nazwy toru i miejsca;
 8. rozdziel nazwy geograficzne, historyczne i sponsorskie;
-9. znajdź źródła pierwotne, oficjalne, językowe lub historyczne;
-10. znajdź odpowiedni wolno licencjonowany SVG, jeśli jest dostępny;
-11. dodaj dostępnościowe metadane SVG zgodnie ze standardem projektu;
-12. utwórz lub zaktualizuj `circuits/<slug>.md`;
-13. zapisz grafikę w `assets/circuits/<slug>.svg`;
-14. dodaj prawidłową stopkę redakcyjną wskazującą Mikołaja Rotnickiego oraz rzeczywiście użyte wsparcie AI;
-15. zaktualizuj indeks w `README.md`;
-16. wykonaj końcową kontrolę jakości.
+9. sprawdź, czy współczesny lub historycznie istotny układ posiada utrwalone nazwy charakterystycznych elementów;
+10. jeżeli takie nazwy istnieją, zbadaj osobno ich użycie, status, pochodzenie, warianty i historię;
+11. znajdź źródła pierwotne, oficjalne, językowe lub historyczne;
+12. znajdź odpowiedni wolno licencjonowany SVG, jeśli jest dostępny;
+13. dodaj dostępnościowe metadane SVG zgodnie ze standardem projektu;
+14. utwórz lub zaktualizuj `circuits/<slug>.md`;
+15. zapisz grafikę w `assets/circuits/<slug>.svg`;
+16. dodaj prawidłową stopkę redakcyjną wskazującą Mikołaja Rotnickiego oraz rzeczywiście użyte wsparcie AI;
+17. zaktualizuj indeks w `README.md`;
+18. wykonaj końcową kontrolę jakości.
+
+## Nazwy charakterystycznych elementów
+
+Sprawdzenie tej warstwy nazewnictwa jest obowiązkowe, ale jej publikacja jest warunkowa.
+
+Mogą to być:
+
+- zakręty;
+- szykany;
+- nawroty;
+- proste;
+- sekwencje zakrętów;
+- większe sekcje;
+- inne utrwalone nazwane fragmenty toru.
+
+Zasady:
+
+- nie ograniczaj researchu tylko do zakrętów;
+- nie twórz sekcji z elementów oznaczonych wyłącznie numerami;
+- odróżniaj potwierdzone użycie nazwy od potwierdzonego pochodzenia nazwy;
+- ustalaj, czy nazwa jest oficjalna, tradycyjna, potoczna, komentatorska, sponsorska lub historyczna, jeśli ma to znaczenie;
+- nie wymyślaj etymologii na podstawie brzmienia;
+- przy nazwie osoby, miejsca, organizacji lub innego toru sprawdź także to źródłowe odniesienie;
+- zachowuj warianty pisowni i niepewność, gdy źródła są niespójne;
+- dla współczesnego układu preferuj kolejność przejazdu;
+- brak odpowiednio udokumentowanych nazw jest prawidłowym wynikiem i nie wymaga tworzenia sekcji.
 
 ## Zasady badawcze
 
@@ -57,6 +85,8 @@ Wykonaj kolejno:
 - Obraz ma być osadzony bezpośrednio w Markdownie.
 - Tekst alternatywny w Markdownie oraz `title` i `desc` w SVG są wymagane, jeśli grafika jest dodawana.
 - Informacja o autorze, źródle, licencji i modyfikacji SVG ma znajdować się bezpośrednio pod grafiką.
+- Sekcja `Nazwy charakterystycznych elementów toru` jest opcjonalna i powstaje tylko wtedy, gdy research wykazał utrwalone nazwy wnoszące wartość do projektu.
+- Nie używaj tabeli jako domyślnej formy tej sekcji; preferuj nagłówki i krótkie bloki tekstu.
 - Każdy nowy tor dodaj do sekcji `Opracowane tory` w `README.md`.
 
 ## Autorstwo i wsparcie AI
