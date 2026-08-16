@@ -97,6 +97,8 @@ Nie ma potrzeby tłumaczyć nazwy toru w normalnym użyciu jako „Tor Między J
 
 ## Stopka redakcyjna
 
+**Redakcja:** Mikołaj Rotnicki.  
+**Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
 **Charakter opracowania:** popularnonaukowe objaśnienie etymologii i pochodzenia nazwy toru.  
 **Język opracowania:** polski; nazwy własne pozostawiane są w formie oryginalnej.  
 **Zasada źródłowa:** badania wykonano ponownie według playbooka projektu, rozdzielając współczesne nazewnictwo, historię toru, etymologię miejsca, patrona i źródło grafiki.  
