@@ -7,9 +7,10 @@ Ten plik określa zasady pracy agentów AI w repozytorium `racing-circuit-names`
 Jeżeli zadanie dotyczy dodania, aktualizacji lub weryfikacji toru, najpierw przeczytaj:
 
 1. `docs/methodology.md` – główna metodologia projektu;
-2. `docs/source-policy.md` – zasady wyszukiwania i oceny źródeł;
-3. `docs/circuit-entry-template.md` – struktura pojedynczego wpisu;
-4. `docs/svg-accessibility-and-licensing.md` – zasady pracy z grafikami SVG.
+2. `docs/source-policy.md` – zasady oceny i doboru źródeł;
+3. `docs/internet-research-playbook.md` – szczegółowa procedura wyszukiwania w Internecie;
+4. `docs/circuit-entry-template.md` – struktura pojedynczego wpisu;
+5. `docs/svg-accessibility-and-licensing.md` – zasady pracy z grafikami SVG.
 
 Te dokumenty są źródłem prawdy dla projektu. Jeżeli instrukcje w tym pliku są skrócone, pierwszeństwo mają szczegółowe dokumenty w `docs/`.
 
@@ -20,29 +21,32 @@ Nie twórz wpisu wyłącznie na podstawie pamięci modelu.
 Wykonaj kolejno:
 
 1. zidentyfikuj dokładnie tor i lokalizację;
-2. sprawdź aktualną oficjalną nazwę;
-3. ustal nazwę powszechnie używaną;
-4. zbadaj język i znaczenie nazwy;
-5. zbadaj rzeczywistą etymologię;
-6. sprawdź historię nazwy toru i miejsca;
-7. rozdziel nazwy geograficzne, historyczne i sponsorskie;
-8. znajdź źródła pierwotne, oficjalne, językowe lub historyczne;
-9. znajdź odpowiedni wolno licencjonowany SVG, jeśli jest dostępny;
-10. dodaj dostępnościowe metadane SVG zgodnie ze standardem projektu;
-11. utwórz lub zaktualizuj `circuits/<slug>.md`;
-12. zapisz grafikę w `assets/circuits/<slug>.svg`;
-13. zaktualizuj indeks w `README.md`;
-14. wykonaj końcową kontrolę jakości.
+2. wykonaj research zgodnie z `docs/internet-research-playbook.md`, rozdzielając wyszukiwanie na osobne ścieżki;
+3. sprawdź aktualną oficjalną nazwę;
+4. ustal nazwę powszechnie używaną;
+5. zbadaj język i znaczenie nazwy;
+6. zbadaj rzeczywistą etymologię;
+7. sprawdź historię nazwy toru i miejsca;
+8. rozdziel nazwy geograficzne, historyczne i sponsorskie;
+9. znajdź źródła pierwotne, oficjalne, językowe lub historyczne;
+10. znajdź odpowiedni wolno licencjonowany SVG, jeśli jest dostępny;
+11. dodaj dostępnościowe metadane SVG zgodnie ze standardem projektu;
+12. utwórz lub zaktualizuj `circuits/<slug>.md`;
+13. zapisz grafikę w `assets/circuits/<slug>.svg`;
+14. zaktualizuj indeks w `README.md`;
+15. wykonaj końcową kontrolę jakości.
 
 ## Zasady badawcze
 
 - Preferuj źródła oficjalne, pierwotne, archiwalne, urzędowe i językowe.
+- Nie ograniczaj wyszukiwania do języka angielskiego; dla etymologii i historii miejsc używaj również języka lokalnego.
 - Nie przedstawiaj domysłu jako etymologii.
 - Nie wyprowadzaj znaczenia nazwy wyłącznie z podobieństwa do współczesnego słowa.
 - Nie mieszaj źródeł odnoszących się do różnych miejsc o tej samej nazwie.
 - Jeżeli wiarygodne źródła są sprzeczne, opisz niepewność.
 - Nazwy sponsorskie i inne informacje zmienne sprawdzaj ponownie przy każdej aktualizacji.
 - Zachowuj oryginalne znaki diakrytyczne nazw własnych.
+- Nie kończ researchu na pierwszym sensownym artykule; zastosuj kryteria zakończenia wyszukiwań z playbooka.
 
 ## Zasady publikacji
 
