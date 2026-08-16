@@ -1,0 +1,37 @@
+name: Import circuit SVG files
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-circuit-svg.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download original SVG files from Wikimedia Commons
+        run: |
+          mkdir -p assets/circuits
+          curl --fail --location --retry 3 \
+            'https://upload.wikimedia.org/wikipedia/commons/5/57/Laguna_Seca.svg' \
+            --output assets/circuits/laguna-seca.svg
+          curl --fail --location --retry 3 \
+            'https://upload.wikimedia.org/wikipedia/commons/b/be/2014_Interlagos_circuit_map.svg' \
+            --output assets/circuits/interlagos.svg
+
+      - name: Commit imported SVG files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/circuits/laguna-seca.svg assets/circuits/interlagos.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Import circuit SVG maps from Wikimedia Commons'
+          git push
