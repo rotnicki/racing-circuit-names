@@ -2,6 +2,8 @@
 
 Ten dokument określa sposób wyszukiwania, oceny i cytowania źródeł w repozytorium `racing-circuit-names`.
 
+Szczegółowa procedura prowadzenia wyszukiwań internetowych znajduje się w `docs/internet-research-playbook.md`. Ten dokument określa przede wszystkim **jak oceniać źródła**, natomiast playbook opisuje **jak ich systematycznie szukać**.
+
 ## Hierarchia źródeł
 
 W pierwszej kolejności należy szukać źródeł możliwie bliskich opisywanemu faktowi.
@@ -29,6 +31,8 @@ Dla każdego toru należy osobno szukać informacji dotyczących:
 - odpowiedniego schematu SVG i jego licencji.
 
 Nie należy zakładać, że jedno źródło wiarygodnie odpowie na wszystkie te pytania.
+
+Praktyczną kolejność wyszukiwań, wzorce zapytań, wyszukiwanie wielojęzyczne, użycie operatorów `site:` i `filetype:`, sposób przechodzenia od źródeł wtórnych do pierwotnych oraz kryteria zakończenia researchu opisuje `docs/internet-research-playbook.md`.
 
 ## Informacje aktualne i historyczne
 
