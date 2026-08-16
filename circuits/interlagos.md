@@ -52,7 +52,7 @@ Nie ma potrzeby tłumaczyć nazwy toru w normalnym użyciu jako „Tor Między J
 
 ### Źródła oficjalne
 
-- [Prefeitura de São Paulo – História do Autódromo de Interlagos](https://prefeitura.sp.gov.br/web/autodromodeinterlagos/historia) – historia powstania dzielnicy i toru, Louis Romero Sanson, Alfred Agache oraz późniejsza historia obiektu.
+- [Prefeitura de São Paulo – História do Autódromo de Interlagos](https://prefeitura.sp.gov.br/web/autodromodeinterlagos/historia) – historia powstania dzielnicy i toru oraz późniejsza historia obiektu.
 - [Prefeitura de São Paulo – Linha do tempo](https://prefeitura.sp.gov.br/web/autodromodeinterlagos/linhadotempo) – oficjalna chronologia; wskazuje, że nazwę Interlagos zaproponował Alfred Agache ze względu na położenie między zbiornikami Guarapiranga i Billings.
 - [Prefeitura de São Paulo – O autódromo José Carlos Pace – Interlagos](https://prefeitura.sp.gov.br/web/governo/w/institucional/348583) – opis związku nazwy Interlagos z Interlaken i położeniem między dwoma zbiornikami oraz historia toru.
 - [Prefeitura de São Paulo – Circuito](https://autodromodeinterlagos.prefeitura.sp.gov.br/circuito) – oficjalne informacje o współczesnym torze i jego parametrach.
@@ -60,7 +60,7 @@ Nie ma potrzeby tłumaczyć nazwy toru w normalnym użyciu jako „Tor Między J
 
 ### Źródło uzupełniające
 
-- [Formula 1 – Autódromo José Carlos Pace / Interlagos](https://www.formula1.com/en/latest/article/helpful-information-when-visiting-the-autodromo-jose-carlos-pace-for-the-sao.64y4PIwpZQtmFivIZ3rvmF.64y4PIwpZQtmFivIZ3rvmF) – potwierdza powszechne użycie nazwy Interlagos, jej znaczenie „between lakes” i oficjalną nazwę Autódromo José Carlos Pace.
+- [Formula 1 – F1’s one-win wonders: Carlos Pace – Brazil 1975](https://www.formula1.com/en/latest/article/f1s-one-win-wonders-how-many-do-you-remember.ACFv9zfw3goSK4FrEDz28) – potwierdza zwycięstwo Pace'a na Interlagos w 1975 roku, fakt, że było to jego jedyne zwycięstwo w Grand Prix, oraz późniejsze nadanie torowi jego imienia.
 
 ---
 
