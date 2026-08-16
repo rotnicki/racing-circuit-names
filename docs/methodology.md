@@ -12,7 +12,10 @@ Każdy wpis ma wyjaśniać nie tylko, jak nazywa się tor, ale przede wszystkim:
 - jaka jest rzeczywista etymologia nazwy;
 - jak najlepiej objaśnić jej sens po polsku;
 - jak zmieniała się nazwa toru w czasie;
-- jakie są aktualne nazwy oficjalne i sponsorskie.
+- jakie są aktualne nazwy oficjalne i sponsorskie;
+- czy tor posiada utrwalone nazwy charakterystycznych elementów i, jeżeli tak, skąd te nazwy pochodzą.
+
+Projekt bada więc przede wszystkim **nazewnictwo związane z torem**. Główna nazwa obiektu pozostaje rdzeniem każdego wpisu, a nazwy charakterystycznych elementów stanowią dodatkowy poziom opracowania tam, gdzie istnieje wartościowy i źródłowo potwierdzony materiał.
 
 ## Podstawowe rozróżnienia
 
@@ -38,7 +41,36 @@ Przed utworzeniem wpisu należy ustalić:
 7. związek nazwy z miejscem, osobą lub sponsorem;
 8. ważniejsze nazwy historyczne;
 9. istotne zmiany nazwy;
-10. wiarygodne źródła potwierdzające powyższe ustalenia.
+10. czy współczesny lub historycznie istotny układ toru posiada utrwalone nazwy charakterystycznych elementów;
+11. wiarygodne źródła potwierdzające powyższe ustalenia.
+
+Sprawdzenie nazewnictwa elementów jest częścią researchu, ale **nie oznacza obowiązku publikowania osobnej sekcji**. Brak źródłowo potwierdzonych nazw wartych objaśnienia jest prawidłowym wynikiem.
+
+## Nazwy charakterystycznych elementów toru
+
+Jeżeli tor posiada utrwalone nazwy zakrętów, szykan, nawrotów, prostych, sekwencji, sekcji lub innych fragmentów nitki, należy sprawdzić, czy ich pochodzenie ma znaczenie dla celu projektu.
+
+Sekcja może nosić nagłówek:
+
+```text
+Nazwy charakterystycznych elementów toru
+```
+
+Słowo **„charakterystyczne”** nie oznacza arbitralnego wyboru kilku najbardziej znanych miejsc. Element kwalifikuje się wtedy, gdy jego nazwa ma utrwalone użycie i wnosi istotny kontekst nazewniczy, np. geograficzny, historyczny, osobowy, kulturowy, opisowy, sponsorski lub związany z innym obiektem motorsportowym.
+
+Należy:
+
+- uwzględniać nie tylko zakręty, ale również inne nazwane elementy;
+- nie tworzyć technicznego katalogu elementów oznaczonych wyłącznie numerami;
+- odróżniać udokumentowane **użycie nazwy** od udokumentowanego **pochodzenia nazwy**;
+- zaznaczać, czy nazwa jest oficjalna, tradycyjna, potoczna, komentatorska, sponsorska lub historyczna, jeżeli ma to znaczenie;
+- zachowywać warianty pisowni i niepewność, jeżeli źródła są niespójne;
+- przy zmianach nazwy odróżniać zmianę nazewnictwa od zmiany geometrii;
+- badać osobę, miejsce, budynek, organizację lub inny obiekt, od którego pochodzi nazwa, jeżeli jest to potrzebne do prawidłowego objaśnienia.
+
+Dla współczesnego układu domyślnym porządkiem prezentacji jest **kolejność przejazdu okrążenia**. Numery zakrętów można podawać pomocniczo, jeżeli są jednoznacznie ustalone, ale numer nie jest nazwą i sam w sobie nie uzasadnia dodania pozycji.
+
+Jeżeli tor ma rozbudowany system nazw i dla większości pozycji istnieją wiarygodne informacje, można przedstawić możliwie pełny zestaw. Jeżeli sensownych nazw jest kilka, sekcja może być krótka. Jeżeli ich nie ma, sekcję należy pominąć.
 
 ## Zasada ostrożności etymologicznej
 
@@ -49,13 +81,14 @@ Nie wolno:
 - zgadywać pochodzenia nazwy na podstawie współczesnych słów;
 - przedstawiać etymologii ludowej jako faktu;
 - dopowiadać konkretnego imienia, osoby lub wydarzenia, jeśli źródło tego nie potwierdza;
-- mieszać informacji o różnych miejscach o tej samej lub podobnej nazwie.
+- mieszać informacji o różnych miejscach o tej samej lub podobnej nazwie;
+- wymyślać pochodzenia nazwy elementu toru tylko dlatego, że jego współczesne użycie jest potwierdzone.
 
 Jeżeli źródła są niejednoznaczne, wpis ma to jasno powiedzieć.
 
 ## Nazwy sponsorskie i informacje zmienne w czasie
 
-Nazwy sponsorów i oficjalne nazwy marketingowe mogą się zmieniać. Dlatego:
+Nazwy sponsorów i oficjalne nazwy marketingowe mogą się zmieniać. Dotyczy to zarówno nazwy całego toru, jak i ewentualnych nazw jego elementów. Dlatego:
 
 - należy weryfikować je w źródłach aktualnych na dzień opracowania;
 - w razie potrzeby podawać datę weryfikacji;
@@ -108,6 +141,7 @@ W zależności od toru można dodawać lub pomijać sekcje, ale wpis powinien za
 - pochodzenie nazwy;
 - związek nazwy z torem;
 - historia nazw;
+- nazwy charakterystycznych elementów toru, jeżeli research wykazał wartościowy materiał;
 - polskie objaśnienie;
 - źródła;
 - stopka redakcyjna.
@@ -126,6 +160,9 @@ Przed zakończeniem opracowania należy sprawdzić:
 - czy aktualna nazwa została zweryfikowana;
 - czy etymologia ma źródło;
 - czy nie pomieszano źródeł dotyczących różnych miejsc;
+- czy sprawdzono istnienie nazw charakterystycznych elementów toru;
+- czy ewentualna sekcja elementów zawiera tylko nazwy o utrwalonym i źródłowo potwierdzonym użyciu;
+- czy odróżniono użycie nazwy elementu od dowodu jej pochodzenia;
 - czy wszystkie ważne twierdzenia mają podstawę źródłową;
 - czy linki prowadzą do właściwych dokumentów;
 - czy SVG ma prawidłową licencję i informacje o autorze;
