@@ -68,3 +68,4 @@ Rozszerzenie projektu o **nazwy charakterystycznych elementów toru** zostało n
 - [Tor Poznań](circuits/tor-poznan.md)
 - [Silverstone](circuits/silverstone.md)
 - [Silesia Ring](circuits/silesia-ring.md)
+- [Circuit de Spa-Francorchamps](circuits/spa-francorchamps.md)
