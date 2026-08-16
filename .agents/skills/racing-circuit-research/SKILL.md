@@ -1,6 +1,6 @@
 ---
 name: racing-circuit-research
-description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including internet research, etymology, naming history, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, transparent authorship, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
+description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including circuit-name etymology, naming history, characteristic track-element names, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, transparent authorship, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
 ---
 
 # Racing Circuit Research
@@ -48,11 +48,19 @@ Do not proceed on an ambiguous same-name place without resolving the ambiguity.
 
 Follow `../../../docs/internet-research-playbook.md` before drafting the entry.
 
-Do not collapse research into one broad query. Run separate research tracks for the current official name, circuit history, linguistic meaning, place-name etymology, patron, sponsor, historical names, and SVG as applicable.
+Do not collapse research into one broad query. Run separate research tracks for:
+
+- current official name;
+- circuit history;
+- linguistic meaning;
+- place-name etymology;
+- patron;
+- sponsor;
+- historical names;
+- characteristic element names;
+- SVG.
 
 Use local-language queries in addition to English, especially for place-name history and etymology.
-
-Use search operators such as exact phrases, `site:` and `filetype:` where supported, and move from secondary sources toward primary or specialist sources whenever possible.
 
 Do not start writing merely because one plausible article has been found. Use the playbook's completion criteria.
 
@@ -106,7 +114,42 @@ Check for:
 
 Keep naming history separate from unrelated sporting history unless sporting facts are needed to explain the name.
 
-### 7. Build a source set
+### 7. Check characteristic track-element names
+
+For every circuit, check whether the contemporary or historically relevant layout has established names for characteristic elements.
+
+These may include:
+
+- corners;
+- chicanes;
+- hairpins;
+- straights;
+- sequences;
+- larger sections;
+- other clearly named parts of the racing surface.
+
+This **research check is mandatory**, but publication of a section is conditional.
+
+For each potentially relevant name, distinguish:
+
+1. documented use of the name;
+2. status of the name — official, traditional, colloquial, commentary usage, sponsored or historical;
+3. documented origin of the name;
+4. spelling variants;
+5. renaming history;
+6. whether the name changed independently of geometry.
+
+Do not treat a numbered turn as a named element merely because it appears on a map.
+
+Do not infer a name's origin from its sound alone.
+
+If a name refers to a person, place, building, organization, event or another circuit, research that referent as needed.
+
+For a current layout, prefer presenting relevant elements in lap order. Turn numbers may be included as secondary orientation if reliably established.
+
+If no established names worth explaining are found, omit the section. That is a valid research result.
+
+### 8. Build a source set
 
 Follow `docs/source-policy.md` and the research playbook.
 
@@ -114,14 +157,17 @@ Aim for a source set that normally includes:
 
 - current official circuit or operator source;
 - official, archival, governmental, academic, historical, or linguistic source for etymology;
-- official racing-series source when useful for sporting context;
-- reputable secondary source only when needed to fill a gap.
+- official racing-series source when useful;
+- sources for characteristic element names if such a section is warranted;
+- reputable secondary sources only when needed to fill a gap.
 
-Before writing, make sure each key claim can be mapped to an appropriate source. An internal evidence matrix may be used as described in the playbook.
+Before writing, make sure each key claim can be mapped to an appropriate source.
+
+For characteristic element names, do not confuse evidence that a name is used with evidence explaining why it has that name.
 
 Do not use Wikipedia as the sole authority for key etymological or historical claims when stronger sources exist.
 
-### 8. Find a circuit SVG
+### 9. Find a circuit SVG
 
 Prefer Wikimedia Commons files with clear provenance and licensing.
 
@@ -138,7 +184,7 @@ Prefer `own work` or similarly clear provenance.
 
 Reject a file if its claimed license is inconsistent with an apparently copied proprietary source.
 
-### 9. Store and make the SVG accessible
+### 10. Store and make the SVG accessible
 
 Store one primary SVG as:
 
@@ -159,7 +205,7 @@ The `desc` should describe the actual diagram, not merely repeat the filename.
 
 Record the modification when the license requires change indication.
 
-### 10. Create or update the Markdown entry
+### 11. Create or update the Markdown entry
 
 Use:
 
@@ -167,15 +213,19 @@ Use:
 
 Follow `docs/circuit-entry-template.md`.
 
-Place the circuit image high in the entry, normally immediately after basic information:
+Place the circuit image high in the entry, normally immediately after basic information.
+
+If characteristic element names were found and meet the source standard, add:
 
 ```markdown
-![Schemat układu toru ...](../assets/circuits/<slug>.svg)
+## Nazwy charakterystycznych elementów toru
 ```
 
-Add the attribution and license statement directly below it.
+Prefer headings and short prose blocks rather than a table. For a modern layout, use lap order by default.
 
-### 11. Add transparent authorship information
+Do not create this section only to list turn numbers.
+
+### 12. Add transparent authorship information
 
 Treat the following as the default editorial attribution for this project:
 
@@ -193,13 +243,13 @@ Do not automatically name ChatGPT if another AI system performed the work. Adapt
 
 This attribution applies to the editorial/research work only. Keep authorship and licensing of external assets such as SVG files separate.
 
-### 12. Update the README index
+### 13. Update the README index
 
 Add the circuit to `## Opracowane tory` in `README.md`.
 
 Use a descriptive Markdown link to the circuit file.
 
-### 13. Final verification
+### 14. Final verification
 
 Before declaring the task complete, check all of the following:
 
@@ -212,6 +262,10 @@ Before declaring the task complete, check all of the following:
 - literal translation is distinguished from Polish explanation;
 - etymology is sourced and not guessed;
 - source locations have not been mixed up;
+- characteristic element names were checked;
+- if a characteristic-elements section exists, each included name has established use and the text distinguishes use from origin;
+- no numbered-only elements were converted into invented names;
+- uncertainty and spelling variants are preserved where relevant;
 - key claims are supported by appropriate sources;
 - SVG provenance and license are clear;
 - SVG attribution includes modification information when required;
@@ -228,6 +282,7 @@ After repository changes, summarize concisely:
 
 - the core etymological conclusion;
 - any important uncertainty;
+- whether characteristic element names were found and published;
 - which files were added or updated;
 - whether the SVG and accessibility metadata were added;
 - whether the editorial attribution was applied.
@@ -236,4 +291,4 @@ Do not bury an unresolved source problem behind a polished summary.
 
 ## Safety against hallucinated research
 
-If external research is unavailable, do not fabricate current names, etymologies, source citations, licenses, authors, or dates. Work only from verified material or clearly report the limitation.
+If external research is unavailable, do not fabricate current names, etymologies, characteristic element names, source citations, licenses, authors, or dates. Work only from verified material or clearly report the limitation.
