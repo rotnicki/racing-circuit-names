@@ -116,6 +116,8 @@ Nie należy tłumaczyć nazwy własnej w normalnym użyciu jako „Tor Mój Dom�
 
 ## Stopka redakcyjna
 
+**Redakcja:** Mikołaj Rotnicki.  
+**Wsparcie badawcze i redakcyjne:** ChatGPT (OpenAI).  
 **Charakter opracowania:** popularnonaukowe objaśnienie znaczenia, pochodzenia i historii nazwy toru.  
 **Język opracowania:** polski; nazwy własne i formy isiZulu pozostawiane są w zapisie źródłowym.  
 **Zasada źródłowa:** rozdzielono źródła oficjalne, językowe, historyczne i graficzne; przekaz niepewny o autorze nazwy nie jest przedstawiany jako ustalony fakt.  
