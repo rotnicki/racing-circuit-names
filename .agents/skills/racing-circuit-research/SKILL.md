@@ -1,6 +1,6 @@
 ---
 name: racing-circuit-research
-description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including etymology, naming history, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
+description: Research, verify, create, or update racing-circuit name entries in the racing-circuit-names repository, including internet research, etymology, naming history, sources, Wikimedia Commons SVG selection, licensing, accessibility metadata, Markdown publication, and README indexing. Use when a user asks to add, research, explain, verify, or update a racing circuit in this repository.
 ---
 
 # Racing Circuit Research
@@ -13,6 +13,7 @@ Before researching or changing a circuit, read:
 
 - `../../../docs/methodology.md`
 - `../../../docs/source-policy.md`
+- `../../../docs/internet-research-playbook.md`
 - `../../../docs/circuit-entry-template.md`
 - `../../../docs/svg-accessibility-and-licensing.md`
 - `../../../AGENTS.md`
@@ -43,7 +44,19 @@ Confirm:
 
 Do not proceed on an ambiguous same-name place without resolving the ambiguity.
 
-### 2. Verify the current official name
+### 2. Execute the internet research playbook
+
+Follow `../../../docs/internet-research-playbook.md` before drafting the entry.
+
+Do not collapse research into one broad query. Run separate research tracks for the current official name, circuit history, linguistic meaning, place-name etymology, patron, sponsor, historical names, and SVG as applicable.
+
+Use local-language queries in addition to English, especially for place-name history and etymology.
+
+Use search operators such as exact phrases, `site:` and `filetype:` where supported, and move from secondary sources toward primary or specialist sources whenever possible.
+
+Do not start writing merely because one plausible article has been found. Use the playbook's completion criteria.
+
+### 3. Verify the current official name
 
 Search current official sources first.
 
@@ -56,7 +69,7 @@ Record separately when applicable:
 
 Treat sponsored and commercial names as time-sensitive.
 
-### 3. Research the name linguistically
+### 4. Research the name linguistically
 
 Determine:
 
@@ -68,7 +81,7 @@ Determine:
 
 Do not infer etymology only from modern spelling or apparent similarity.
 
-### 4. Research the actual etymology
+### 5. Research the actual etymology
 
 If the circuit is named after a place, research the place name as well.
 
@@ -80,7 +93,7 @@ If the etymology is uncertain:
 - describe supported hypotheses only;
 - do not fill gaps with plausible-sounding reconstruction.
 
-### 5. Research naming history
+### 6. Research naming history
 
 Check for:
 
@@ -93,9 +106,9 @@ Check for:
 
 Keep naming history separate from unrelated sporting history unless sporting facts are needed to explain the name.
 
-### 6. Build a source set
+### 7. Build a source set
 
-Follow `docs/source-policy.md`.
+Follow `docs/source-policy.md` and the research playbook.
 
 Aim for a source set that normally includes:
 
@@ -104,9 +117,11 @@ Aim for a source set that normally includes:
 - official racing-series source when useful for sporting context;
 - reputable secondary source only when needed to fill a gap.
 
+Before writing, make sure each key claim can be mapped to an appropriate source. An internal evidence matrix may be used as described in the playbook.
+
 Do not use Wikipedia as the sole authority for key etymological or historical claims when stronger sources exist.
 
-### 7. Find a circuit SVG
+### 8. Find a circuit SVG
 
 Prefer Wikimedia Commons files with clear provenance and licensing.
 
@@ -123,7 +138,7 @@ Prefer `own work` or similarly clear provenance.
 
 Reject a file if its claimed license is inconsistent with an apparently copied proprietary source.
 
-### 8. Store and make the SVG accessible
+### 9. Store and make the SVG accessible
 
 Store one primary SVG as:
 
@@ -144,7 +159,7 @@ The `desc` should describe the actual diagram, not merely repeat the filename.
 
 Record the modification when the license requires change indication.
 
-### 9. Create or update the Markdown entry
+### 10. Create or update the Markdown entry
 
 Use:
 
@@ -160,17 +175,20 @@ Place the circuit image high in the entry, normally immediately after basic info
 
 Add the attribution and license statement directly below it.
 
-### 10. Update the README index
+### 11. Update the README index
 
 Add the circuit to `## Opracowane tory` in `README.md`.
 
 Use a descriptive Markdown link to the circuit file.
 
-### 11. Final verification
+### 12. Final verification
 
 Before declaring the task complete, check all of the following:
 
 - the correct circuit was researched;
+- the internet research playbook was followed;
+- current and historical facts were searched separately where needed;
+- local-language searching was used where useful;
 - the current official name was verified;
 - common, geographical, historical, and sponsor names are distinguished;
 - literal translation is distinguished from Polish explanation;
