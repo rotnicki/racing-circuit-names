@@ -6,7 +6,7 @@ Ten plik określa zasady pracy agentów AI w repozytorium `racing-circuit-names`
 
 Jeżeli zadanie dotyczy dodania, aktualizacji lub weryfikacji toru, najpierw przeczytaj:
 
-1. `docs/methodology.md` – główna metodologia projektu;
+1. `docs/methodology.md` – główna metodologia projektu, w tym zasady autorstwa i wykorzystania AI;
 2. `docs/source-policy.md` – zasady oceny i doboru źródeł;
 3. `docs/internet-research-playbook.md` – szczegółowa procedura wyszukiwania w Internecie;
 4. `docs/circuit-entry-template.md` – struktura pojedynczego wpisu;
@@ -33,8 +33,9 @@ Wykonaj kolejno:
 11. dodaj dostępnościowe metadane SVG zgodnie ze standardem projektu;
 12. utwórz lub zaktualizuj `circuits/<slug>.md`;
 13. zapisz grafikę w `assets/circuits/<slug>.svg`;
-14. zaktualizuj indeks w `README.md`;
-15. wykonaj końcową kontrolę jakości.
+14. dodaj prawidłową stopkę redakcyjną wskazującą Mikołaja Rotnickiego oraz rzeczywiście użyte wsparcie AI;
+15. zaktualizuj indeks w `README.md`;
+16. wykonaj końcową kontrolę jakości.
 
 ## Zasady badawcze
 
@@ -57,6 +58,21 @@ Wykonaj kolejno:
 - Tekst alternatywny w Markdownie oraz `title` i `desc` w SVG są wymagane, jeśli grafika jest dodawana.
 - Informacja o autorze, źródle, licencji i modyfikacji SVG ma znajdować się bezpośrednio pod grafiką.
 - Każdy nowy tor dodaj do sekcji `Opracowane tory` w `README.md`.
+
+## Autorstwo i wsparcie AI
+
+Koncepcja projektu, redakcja i nadzór merytoryczny są przypisane **Mikołajowi Rotnickiemu**.
+
+Jeżeli opracowanie powstaje przy pomocy ChatGPT, stopka powinna zawierać:
+
+```text
+Redakcja: Mikołaj Rotnicki.
+Wsparcie badawcze i redakcyjne: ChatGPT (OpenAI).
+```
+
+Jeżeli wykorzystano inny system AI lub dodatkowego współtwórcę, stopkę należy dostosować do rzeczywistego przebiegu pracy. Nie wolno przypisywać udziału narzędziu, które nie uczestniczyło w opracowaniu.
+
+Podpis redakcyjny nie zastępuje atrybucji materiałów zewnętrznych. Autorzy i licencje SVG, fotografii i innych materiałów pozostają dokumentowani oddzielnie.
 
 ## Zasady zmian
 
